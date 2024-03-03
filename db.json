@@ -1,24 +1,9 @@
 {
   "users": [
     {
-      "id": "f8c9",
-      "email": "john.doe@example.com",
-      "password": "password123"
-    },
-    {
-      "id": "d433",
-      "email": "seu.email@gmail.com",
-      "password": "Dn#42697"
-    },
-    {
-      "id": "2a2b35ff-5d91-495f-aa38-25847641084b",
-      "email": "lucas@gmail.com",
-      "password": "Dn#42697"
-    },
-    {
-      "id": "5ab78a35-dd44-4180-a66f-b78c012c1574",
-      "email": "email@gmail.com",
-      "password": "U2FsdGVkX1+cDsghYUtvzKzAHp2U1L119qeFd/PdnTs="
+      "id": "d39d8c80-914c-4181-8375-7ffffca899f0",
+      "email": "linyker@gmail.com",
+      "password": "U2FsdGVkX1//D4PbbT37YnQ7hMcCgDhUXX2yDlrrnqI="
     }
   ]
 }
